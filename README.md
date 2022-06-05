@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I ❤️ anything outer space, sci-fi, fantasy and rom-coms movies. I'm also big on gaming
 
 🔗  Connect with me
-https://twitter.com/iktheenigma https://linkedin.com/in/juwejesse https://instagram.com/gautamkrishnar
+https://twitter.com/iktheenigma https://linkedin.com/in/juwejesse https://instagram.com/iktheenigma
 
 <!---
 jessejuwe/jessejuwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
