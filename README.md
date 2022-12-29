@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesse Juwe I.
-- 👀 I’m interested in App Development, Data Science & Machine Learning, Mobile Development (Flutter & React Native)
-- 💪🏽 I’m currently working on projects, using Next.js, TypeScript, TailWindCSS and Redux
+- 👀 I’m interested in Software Development, Data Analytics & Machine Learning
+- 💪🏽 I work as a Frontend Engineer using Next.js, TypeScript, TailWindCSS
 - 💞️ I’m looking to collaborate on projects, complicated or easy
 - 📫 How to reach me: mail (jessejuwe@gmail.com), mobile (+234 902 618 6935)
 - ⚡ Fun fact: I ❤️ outer space and movies. I'm also big on gaming.
